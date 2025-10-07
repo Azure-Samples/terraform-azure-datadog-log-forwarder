@@ -5,7 +5,6 @@ variable "subscription_id" {
 
 variable "location" {
   description = "The location/region where the resources will be created."
-  default = "West Europe"
   type = string  
 }
 

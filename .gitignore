@@ -40,3 +40,4 @@ terraform.rc
 
 # Artifacts
 *.zip
+tfplan
