@@ -89,7 +89,7 @@ Once the deployment is complete:
 - Confirm that the Event Hub namespace, Datadog Azure Function, and other resources have been created in your Azure portal.
 - Verify logs are being forwarded to your Datadog site as expected.
 
-## To do
+## To Do
 
 The following tasks will be added to the code base soon:
 
